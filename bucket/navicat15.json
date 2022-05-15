@@ -6,7 +6,7 @@
         "identifier": "Proprietary",
         "url": "http://legal.navicat.com/navicatcloud/NavicatCloudLicenseAgreement.rtf"
     },
-    "note": [
+    "notes": [
         "打开hosts文件，添加如下一行：",
         "127.0.0.1 activate.navicat.com",
         "双击Navicat Keygen Patch v5.6.0 DFoX.exe文件：",
@@ -25,6 +25,11 @@
             "hash": "3c51be4532f0d1e06523fe7c8426b7f784ce6d893998cab865d1529c2d63a607"
         }
     },
+    "post_install": [
+        "Invoke-WebRequest -Uri \"http://oc.102323.xyz:33001/software/Navicat_Keygen_Patch_v5.6.0_DFoX.7z\" -OutFile \"$dir\\Navicat_Keygen_Patch_v5.6.0_DFoX.7z\"",
+        "7z x $dir\\Navicat_Keygen_Patch_v5.6.0_DFoX.7z -o$dir\\Navicat_Keygen_Patch_v5.6.0_DFoX.7z",
+        "rm $dir\\Navicat_Keygen_Patch_v5.6.0_DFoX.7z"
+    ],
     "innosetup": true,
     "bin": "navicat.exe",
     "shortcuts": [
