@@ -1,22 +1,22 @@
 {
     "homepage": "https://rarlab.com/",
     "version": "6.11",
-    "description": "解压缩文件.",
+    "description": "加压缩工具.",
     "license": {
         "identifier": "Shareware",
         "url": "https://www.win-rar.com/gtb_priv.html?&L=0"
     },
-    "url": "http://oc.102323.xyz:33001/software/WinRAR_v6.11_x64_SC.exe#/dl.7z",
-    "hash": "d611e810a3b0abf2d35f68aa8e63000b3d3be7c4a1b087f299a41410d42ddc83",
+    "url": "http://oc.102323.xyz:33001/software/WinRAR_v6.11_x64_SC.7z/#dl.7z",
+    "hash": "aaee5c7d163ad0e00893e2f476b7aad606b12d149a96c23e2456c776e7017302",
+    "bin": [
+        "Rar.exe",
+        "UnRAR.exe",
+        "WinRAR.exe"
+    ],
     "shortcuts": [
         [
             "WinRAR.exe",
             "WinRAR"
         ]
-    ],
-    "bin": [
-        "Rar.exe",
-        "UnRAR.exe",
-        "WinRAR.exe"
     ]
 }
