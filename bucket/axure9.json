@@ -1,7 +1,7 @@
 {
+    "version": "9.0.0.3719",
     "homepage": "https://www.axure.com/",
     "description": "Prototypes, Specifications, and Diagrams in One Tool",
-    "version": "9.0.0.3719",
     "license": "Proprietary",
     "url": [
         "https://axure.cachefly.net/versions/9-0/AxureRP-Setup-3719.exe#/installer.exe",
@@ -32,5 +32,9 @@
     },
     "autoupdate": {
         "url": "https://axure.cachefly.net/versions/$majorVersion-$minorVersion/AxureRP-Setup-$buildVersion.exe#/installer.exe"
-    }
+    },
+    "note": [
+        "Licensee: Freecrackdownload.com",
+        "Key: 5vYpJgQZ431X/G5kp6jpOO8Vi3TySCBnAslTcNcKkszfPH7jaM4eKM8CrALBcEC1"
+    ]
 }

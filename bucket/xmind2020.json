@@ -1,0 +1,16 @@
+{
+    "version": "10.1.3",
+    "homepage": "https://www.ghpym.com/xmindzen.html",
+    "description": "XMind2020是个操作简便的思维导图工具，帮助你专注于思维导图本身.",
+    "url": "http://oc.102323.xyz:33001/software/XMind_2020_v10.1.3_64bit.7z/#dl.7z",
+    "hash": "70f2d05db3775db56ddd9eb9598cf95e129477a2ab72544b5de59c7a52d90e58",
+    "uninstaller": {
+        "script": "rd/s/q \"%appdata%\\XMind\""
+    },
+    "shortcuts": [
+        [
+            "XMind.exe",
+            "XMind 2020"
+        ]
+    ]
+}
