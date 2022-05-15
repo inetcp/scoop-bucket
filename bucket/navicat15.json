@@ -17,24 +17,12 @@
     ],
     "architecture": {
         "64bit": {
-            "url": [
-                "https://dn.navicat.com/download/navicat150_premium_cs_x64.exe",
-                "http://oc.102323.xyz:33001/software/Navicat_Keygen_Patch_v5.6.0_DFoX.7z"
-            ],
-            "hash": [
-                "bc6ae5e5ac84e22984267da1af53e507db1a2fb75bb4d6b8d4d722aba3db14af",
-                "26eb5792b9eb15d9cd53016ae260a13131fbc758eb6574baaea12edbc7539408"
-            ]
+            "url": "https://dn.navicat.com/download/navicat150_premium_cs_x64.exe",
+            "hash": "bc6ae5e5ac84e22984267da1af53e507db1a2fb75bb4d6b8d4d722aba3db14af"
         },
         "32bit": {
-            "url": [
-                "https://dn.navicat.com/download/navicat150_premium_cs_x86.exe",
-                "http://oc.102323.xyz:33001/software/Navicat_Keygen_Patch_v5.6.0_DFoX.7z"
-            ],
-            "hash": [
-                "3c51be4532f0d1e06523fe7c8426b7f784ce6d893998cab865d1529c2d63a607",
-                "26eb5792b9eb15d9cd53016ae260a13131fbc758eb6574baaea12edbc7539408"
-            ]
+            "url": "https://dn.navicat.com/download/navicat150_premium_cs_x86.exe",
+            "hash": "3c51be4532f0d1e06523fe7c8426b7f784ce6d893998cab865d1529c2d63a607"
         }
     },
     "innosetup": true,
