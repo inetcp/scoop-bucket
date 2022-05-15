@@ -12,14 +12,14 @@
         "64bit": {
             "url": [
                 "https://osdn.mirror.constant.com//storage/g/t/to/tortoisesvn/1.14.3/Application/TortoiseSVN-1.14.3.29387-x64-svn-1.14.2.msi",
-                "https://osdn.net/projects/tortoisesvn/storage/1.14.3/Language%20Packs/LanguagePack_1.14.3.29387-x64-zh_CN.msi",
+                "https://osdn.mirror.constant.com//storage/g/t/to/tortoisesvn/1.14.3/Language%20Packs/LanguagePack_1.14.3.29387-x64-zh_CN.msi",
                 "https://raw.githubusercontent.com/ScoopInstaller/Extras/master/scripts/tortoisesvn/tortoisesvn-install-tools.reg.templ",
                 "https://raw.githubusercontent.com/ScoopInstaller/Extras/master/scripts/tortoisesvn/tortoisesvn-install.reg.templ",
                 "https://raw.githubusercontent.com/ScoopInstaller/Extras/master/scripts/tortoisesvn/tortoisesvn-uninstall.reg"
             ],
             "hash": [
                 "093281e215e57205fe512303872b25b98d6f1dba1059b6e6ddd8704aeeab9f81",
-                "89b54fe1d9ccb6af0de04af40ce2ef67a07954f94d7d0564ff4c8347336756c2",
+                "762f6a616c06fead7b056dd09698e6b2e76687bb4fe9fc154eb31ca46ba37eb4",
                 "730bc1e2454d68402d092f5435df4e43017e8af6d8c7779093746254722ff8f3",
                 "2ee3d8b6db8134f298d00b6d1fed6b245514598206e9a80ef5af6323438166ab",
                 "3aeb9e65c620d877563e5ec61d93dc910296d427a334622451802117431d1982"
@@ -28,7 +28,7 @@
         "32bit": {
             "url": [
                 "https://osdn.mirror.constant.com//storage/g/t/to/tortoisesvn/1.14.3/Application/TortoiseSVN-1.14.3.29387-win32-svn-1.14.2.msi",
-                "https://osdn.net/projects/tortoisesvn/storage/1.14.3/Language%20Packs/LanguagePack_1.14.3.29387-win32-zh_CN.msi",
+                "https://osdn.mirror.constant.com//storage/g/t/to/tortoisesvn/1.14.3/Language%20Packs/LanguagePack_1.14.3.29387-win32-zh_CN.msi",
                 "https://raw.githubusercontent.com/ScoopInstaller/Extras/master/scripts/tortoisesvn/tortoisesvn-install-tools.reg.templ",
                 "https://raw.githubusercontent.com/ScoopInstaller/Extras/master/scripts/tortoisesvn/tortoisesvn-install.reg.templ",
                 "https://raw.githubusercontent.com/ScoopInstaller/Extras/master/scripts/tortoisesvn/tortoisesvn-uninstall.reg"
