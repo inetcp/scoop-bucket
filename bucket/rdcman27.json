@@ -1,0 +1,17 @@
+{
+    "version": "2.7",
+    "homepage": "https://docs.microsoft.com/en-us/sysinternals/downloads/rdcman",
+    "description": "RDCMan manages multiple remote desktop connections.",
+    "license": {
+        "identifier": "Proprietary"
+    },
+    "url": "http://oc.102323.xyz:33001/aliyun/Setup/RDCMan2.7.7z/#dl.7z",
+    "hash": "bc36445f22fac7ae0a4668368bfdce9c6d68f6d68fa4fc62b0a71f14ab8d322a",
+    "shortcuts": [
+        [
+            "RDCMan.exe",
+            "Remote Desktop Connection Manager"
+        ]
+    ],
+    "bin": "RDCMan.exe"
+}
