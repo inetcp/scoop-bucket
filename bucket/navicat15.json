@@ -26,7 +26,7 @@
         }
     },
     "post_install": [
-        "Invoke-WebRequest -Uri \"http://oc.102323.xyz:33001/aliyun/Setup/Navicat_Keygen_Patch_v5.6.0_DFoX.7z\" -OutFile \"$dir\\Navicat_Keygen_Patch_v5.6.0_DFoX.7z\"",
+        "Invoke-WebRequest -Uri \"http://soft.102323.xyz:9090/Navicat_Keygen_Patch_v5.6.0_DFoX.7z\" -OutFile \"$dir\\Navicat_Keygen_Patch_v5.6.0_DFoX.7z\"",
         "7z x -o\"$dir\" \"$dir\\Navicat_Keygen_Patch_v5.6.0_DFoX.7z\" -y",
         "rm $dir\\Navicat_Keygen_Patch_v5.6.0_DFoX.7z"
     ],
