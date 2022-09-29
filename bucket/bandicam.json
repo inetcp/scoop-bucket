@@ -1,9 +1,9 @@
 {
     "homepage": "https://www.bandicam.cn/",
     "description": "Bandicam（班迪录屏）一款简单好用的录屏大师，录屏幕，录游戏，录视频的功能强大的屏幕录像软件",
-    "version": "4.5.3.1608",
-    "url": "http://soft.102323.xyz:9090/BandicamPortable-4.5.3.1608.7z/#dl.7z",
-    "hash": "7ea157fd6d22dcf77dcd97001c36e1ff3fe009b34afff1c741c183bc86c9ea4a",
+    "version": "5.4.3.1923",
+    "url": "http://soft.102323.xyz:9090/Bandicam_5.4.3.1923_64bit_Portable.7z/#dl.7z",
+    "hash": "700802f68806be1f6842a0f5e94fc5740a423b816ef9f085866bd8da82991aeb",
     "persist": "Data",
     "bin": "BandicamPortable.exe",
     "shortcuts": [
