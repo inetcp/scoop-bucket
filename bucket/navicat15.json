@@ -17,12 +17,12 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://dn.navicat.com/download/navicat150_premium_cs_x64.exe",
-            "hash": "bc6ae5e5ac84e22984267da1af53e507db1a2fb75bb4d6b8d4d722aba3db14af"
+            "url": "http://soft.102323.xyz:9090/navicat150_premium_cs_x64.exe",
+            "hash": "115ab755fea61e1e6f6ef8b55c363e5427cff013204b1dfc7483fae404e679c7"
         },
         "32bit": {
-            "url": "https://dn.navicat.com/download/navicat150_premium_cs_x86.exe",
-            "hash": "3c51be4532f0d1e06523fe7c8426b7f784ce6d893998cab865d1529c2d63a607"
+            "url": "http://soft.102323.xyz:9090/navicat150_premium_cs_x86.exe",
+            "hash": "e70870b0feb98f44d29fcf6801dc3c8895d255217165b5508930aa0c6fcbf49f"
         }
     },
     "post_install": [
