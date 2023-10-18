@@ -1,0 +1,14 @@
+{
+    "homepage": "https://www.tracker-software.com/product/pdf-xchange-editor",
+    "description": "PDF-XChange Editor，号称打开速度最快最强大的PDF编辑器/PDF阅读器，PDF-XChange专注于PDF文档的编辑，打开PDF文件速度快，软件小功能强大",
+    "version": "10.1.1.381",
+    "url": "http://soft.102323.xyz:9090/PDF-XChange_Editor_Plus_10.1.1.381_Green.7z/#dl.7z",
+    "hash": "5A5CBDE065C6A8F521F7D99095B43E0F0CABA09E055615389CDC387877484802",
+    "bin": "PDFXEdit.exe",
+    "shortcuts": [
+        [
+            "PDFXEdit.exe",
+            "PDF-XChange Editor Plus"
+        ]
+    ]
+}
